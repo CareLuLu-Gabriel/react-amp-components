@@ -93,12 +93,12 @@ const finalHTML = `
 
 ## AMP Components implemented
 
-#### [amp-sidebar](https://www.ampproject.org/docs/reference/components/amp-sidebar)
-#### [amp-img](https://www.ampproject.org/docs/reference/components/amp-img)
-#### [amp-carousel](https://www.ampproject.org/docs/reference/components/amp-carousel)
-#### [amp-analytics](https://www.ampproject.org/docs/reference/components/amp-analytics)
-#### [amp-accordion](https://www.ampproject.org/docs/reference/components/amp-accordion)
-#### [amp-bind](https://www.ampproject.org/docs/reference/components/amp-bind)
+### [amp-sidebar](https://www.ampproject.org/docs/reference/components/amp-sidebar)
+### [amp-img](https://www.ampproject.org/docs/reference/components/amp-img)
+### [amp-carousel](https://www.ampproject.org/docs/reference/components/amp-carousel)
+### [amp-analytics](https://www.ampproject.org/docs/reference/components/amp-analytics)
+### [amp-accordion](https://www.ampproject.org/docs/reference/components/amp-accordion)
+### [amp-bind](https://www.ampproject.org/docs/reference/components/amp-bind)
 Example usage:
 ```jsx
 <State id="animals">
@@ -108,7 +108,7 @@ Example usage:
   }}
 </State>
 ```
-#### [amp-state](https://www.ampproject.org/docs/reference/components/amp-bind)
+### [amp-state](https://www.ampproject.org/docs/reference/components/amp-bind)
 Example usage:
 ```jsx
 <Bind text="'Hello ' + foo" className="bar">
