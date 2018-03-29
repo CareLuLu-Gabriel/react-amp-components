@@ -98,7 +98,7 @@ const finalHTML = `
 #### [amp-carousel](https://www.ampproject.org/docs/reference/components/amp-carousel)
 #### [amp-analytics](https://www.ampproject.org/docs/reference/components/amp-analytics)
 #### [amp-accordion](https://www.ampproject.org/docs/reference/components/amp-accordion)
-#### [amp-bind](https://www.ampproject.org/docs/reference/components/amp-bind)
+#### [amp-bind](https://www.ampproject.org/docs/reference/components/amp-bind) (and amp-state)
 
 ## Todo
 - [ ] Define all the AMP components with their properties and scripts in a JSON file and use that to generate them.
